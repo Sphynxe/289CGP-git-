@@ -1,0 +1,2227 @@
+fileFormatVersion: 2
+guid: 676865a9c6ba4ee4fb304d963452266a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5197158289810592335
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_0
+  - first:
+      213: -4761466139687692872
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_1
+  - first:
+      213: -8642541455876243301
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_2
+  - first:
+      213: 2821712535470143297
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_3
+  - first:
+      213: -6630700751772670456
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_4
+  - first:
+      213: 3029348927308354234
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_5
+  - first:
+      213: 6911517514409972179
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_6
+  - first:
+      213: 8596642365187786050
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_7
+  - first:
+      213: -2183058882094380036
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_8
+  - first:
+      213: -2091444998476835613
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_9
+  - first:
+      213: 1428397397825066413
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_10
+  - first:
+      213: 1897624587598933151
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_11
+  - first:
+      213: -1994429106335769008
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_12
+  - first:
+      213: -868686489783953202
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_13
+  - first:
+      213: 7822952636142922039
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_14
+  - first:
+      213: 3757489529480114173
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_15
+  - first:
+      213: 2391960429081030385
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_16
+  - first:
+      213: 195646979676347460
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_17
+  - first:
+      213: 2816369968687932700
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_18
+  - first:
+      213: 8770985544545060487
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_19
+  - first:
+      213: -4743724128046263337
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_20
+  - first:
+      213: 2914317704666004896
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_21
+  - first:
+      213: 9142946345861788085
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_22
+  - first:
+      213: 2336985532915853312
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_23
+  - first:
+      213: 1179947729323696990
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_24
+  - first:
+      213: -7343782379211399906
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_25
+  - first:
+      213: -1972159327082743634
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_26
+  - first:
+      213: -859008839597388973
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_27
+  - first:
+      213: -8718615368518675275
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_28
+  - first:
+      213: -3685398184753286012
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_29
+  - first:
+      213: 5021725557195911035
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_30
+  - first:
+      213: -8819428979892034008
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_31
+  - first:
+      213: -7485917129249932086
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_32
+  - first:
+      213: 2184613623552620859
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_33
+  - first:
+      213: 4843998018967338643
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_34
+  - first:
+      213: 1036106522593104860
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_35
+  - first:
+      213: -6792473194686772014
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_36
+  - first:
+      213: -5519698051384386146
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_37
+  - first:
+      213: 6911993647414794422
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_38
+  - first:
+      213: 2597075101022992252
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_39
+  - first:
+      213: -4481217396032470065
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_40
+  - first:
+      213: 4733316561042104150
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_41
+  - first:
+      213: -2210445925822096204
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_42
+  - first:
+      213: -550264049820960856
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_43
+  - first:
+      213: -5671230079042733521
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_44
+  - first:
+      213: -3039989844800651957
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_45
+  - first:
+      213: 1166108824767395861
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_46
+  - first:
+      213: -2237405912392810055
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_47
+  - first:
+      213: -7563034618191380380
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_48
+  - first:
+      213: -1733763790087584742
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_49
+  - first:
+      213: -1265212003177958516
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_50
+  - first:
+      213: 6970913821072162158
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_51
+  - first:
+      213: 1494746185090284227
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_52
+  - first:
+      213: -7121775435097547607
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_53
+  - first:
+      213: -7157625627617575962
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_54
+  - first:
+      213: 6536213229888293277
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_55
+  - first:
+      213: -5864690587190902459
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_56
+  - first:
+      213: -4559856859059519150
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_57
+  - first:
+      213: 557801303663823302
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_58
+  - first:
+      213: 4508353470103345469
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_59
+  - first:
+      213: 4941616978467116849
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_60
+  - first:
+      213: -4879278378682840773
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_61
+  - first:
+      213: 5125092957312451137
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_62
+  - first:
+      213: -6593840749192704422
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_63
+  - first:
+      213: -4795950392793268990
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_64
+  - first:
+      213: -7410891438461208650
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_65
+  - first:
+      213: 1763815562779495316
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_66
+  - first:
+      213: 4839928289800357010
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_67
+  - first:
+      213: -7054757605247420180
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_68
+  - first:
+      213: 4491962564254878281
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_69
+  - first:
+      213: 875606867101065418
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_70
+  - first:
+      213: 7602881052289281179
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_71
+  - first:
+      213: 3815500092992817532
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_72
+  - first:
+      213: -8116990886311382851
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_73
+  - first:
+      213: 2353104511922547998
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_74
+  - first:
+      213: -5577858454931830871
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_75
+  - first:
+      213: -9041889991753008431
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_76
+  - first:
+      213: 8749232449068666496
+    second: Arcade - Robotron_ 2084 - Enemies - Robotrons_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4213a9cde3002840800000000000000
+      internalID: 5197158289810592335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b55dd5f5cfdbedb0800000000000000
+      internalID: -4761466139687692872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 221
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c8e506568f0880800000000000000
+      internalID: -8642541455876243301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147f6f6d99cb82720800000000000000
+      internalID: 2821712535470143297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 221
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806aca61cc40bf3a0800000000000000
+      internalID: -6630700751772670456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 206
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2dce89cc86a0a20800000000000000
+      internalID: 3029348927308354234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11c418f84aaef50800000000000000
+      internalID: 6911517514409972179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24587162fa86d4770800000000000000
+      internalID: 8596642365187786050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 172
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbc009538734b1e0800000000000000
+      internalID: -2183058882094380036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 190
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45586dad1b9f2e0800000000000000
+      internalID: -2091444998476835613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 174
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da594778ddfa2d310800000000000000
+      internalID: 1428397397825066413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca1e42287b55a10800000000000000
+      internalID: 1897624587598933151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e18237b4d5254e0800000000000000
+      internalID: -1994429106335769008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec81f337d3ec1f3f0800000000000000
+      internalID: -868686489783953202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 156
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739210c89f5b09c60800000000000000
+      internalID: 7822952636142922039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff69eba1d8452430800000000000000
+      internalID: 3757489529480114173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 146
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe6a2c4653f13120800000000000000
+      internalID: 2391960429081030385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 145
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c9cf434e317b200800000000000000
+      internalID: 195646979676347460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 145
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15e8b39091c51720800000000000000
+      internalID: 2816369968687932700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 144
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786c1b0d1ecc8b970800000000000000
+      internalID: 8770985544545060487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d35a53f908ea2eb0800000000000000
+      internalID: -4743724128046263337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adbf3df28cb17820800000000000000
+      internalID: 2914317704666004896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b13c89924542ee70800000000000000
+      internalID: 9142946345861788085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0082da6d5f3ae6020800000000000000
+      internalID: 2336985532915853312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 122
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e532edb4534006010800000000000000
+      internalID: 1179947729323696990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 121
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dd45bc5d4a51a90800000000000000
+      internalID: -7343782379211399906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 101
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea872cc7a8b71a4e0800000000000000
+      internalID: -1972159327082743634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 126
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b80e8f2003414f0800000000000000
+      internalID: -859008839597388973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4de2af381410780800000000000000
+      internalID: -8718615368518675275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 101
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48439e580e5dadcc0800000000000000
+      internalID: -3685398184753286012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fa92cb9c0c0b540800000000000000
+      internalID: 5021725557195911035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 120
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826efb3f1181b9580800000000000000
+      internalID: -8819428979892034008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 127
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accbb05780eac1890800000000000000
+      internalID: -7485917129249932086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39355b148e415e10800000000000000
+      internalID: 2184613623552620859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 101
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e7e3d9886593340800000000000000
+      internalID: 4843998018967338643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd390ac846df06e00800000000000000
+      internalID: 1036106522593104860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 119
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc05541e994cb1a0800000000000000
+      internalID: -6792473194686772014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d51dbedd71663b0800000000000000
+      internalID: -5519698051384386146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 118
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b85aebd9955cef50800000000000000
+      internalID: 6911993647414794422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 101
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77bc736b0aaa0420800000000000000
+      internalID: 2597075101022992252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 118
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc30f2455848fc1c0800000000000000
+      internalID: -4481217396032470065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f5366855e10b140800000000000000
+      internalID: 4733316561042104150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1a24542be251e0800000000000000
+      internalID: -2210445925822096204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 105
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7f0c913c11d58f0800000000000000
+      internalID: -550264049820960856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab5236a4ebb41b0800000000000000
+      internalID: -5671230079042733521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dbcdbb759cfc5d0800000000000000
+      internalID: -3039989844800651957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51875bd3cc9de2010800000000000000
+      internalID: 1166108824767395861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 77
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1c77d4d2323f0e0800000000000000
+      internalID: -2237405912392810055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 77
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46088bed514ba0790800000000000000
+      internalID: -7563034618191380380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 77
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14056fc40f60f7e0800000000000000
+      internalID: -1733763790087584742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c837401f260117ee0800000000000000
+      internalID: -1265212003177958516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dfdd0df29adb060800000000000000
+      internalID: 6970913821072162158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 61
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca3daf5cb76eb410800000000000000
+      internalID: 1494746185090284227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 44
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac58ec79fe5a2d90800000000000000
+      internalID: -7121775435097547607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_54
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 60
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb3f961a610bac90800000000000000
+      internalID: -7157625627617575962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 43
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9943bf5d4b45ba50800000000000000
+      internalID: 6536213229888293277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541c8e0cbfe6c9ea0800000000000000
+      internalID: -5864690587190902459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2510129885228b0c0800000000000000
+      internalID: -4559856859059519150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c1209455bdb700800000000000000
+      internalID: 557801303663823302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39d8634893e09e30800000000000000
+      internalID: 4508353470103345469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1375299c576249440800000000000000
+      internalID: 4941616978467116849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b398d568a22594cb0800000000000000
+      internalID: -4879278378682840773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_62
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142077904ecff1740800000000000000
+      internalID: 5125092957312451137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e8fd636c8fd74a0800000000000000
+      internalID: -6593840749192704422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d792d178c517db0800000000000000
+      internalID: -4795950392793268990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b739855089372990800000000000000
+      internalID: -7410891438461208650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b07c4c8e45a7810800000000000000
+      internalID: 1763815562779495316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2940ae3f221ea2340800000000000000
+      internalID: 4839928289800357010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8fdb2f557781e90800000000000000
+      internalID: -7054757605247420180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ac3ca1728a65e30800000000000000
+      internalID: 4491962564254878281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_70
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0a3747ec7c62c00800000000000000
+      internalID: 875606867101065418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c2047090cd28960800000000000000
+      internalID: 7602881052289281179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c798e438e1163f430800000000000000
+      internalID: 3815500092992817532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_73
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0b3586bc7aa5f80800000000000000
+      internalID: -8116990886311382851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d23881618e7a020800000000000000
+      internalID: 2353104511922547998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7016ab9477792b0800000000000000
+      internalID: -5577858454931830871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_76
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf66f55f0c48280800000000000000
+      internalID: -9041889991753008431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_77
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e0f089e848b6970800000000000000
+      internalID: 8749232449068666496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 156
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1220c9359f73f8439264b819edf3a6c
+      internalID: -2004200118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_79
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 156
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c513c40fb0f0e48b5957f8126b0334
+      internalID: -752332091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Enemies - Robotrons_80
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 157
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73833cdeccdfc3468f8e430aac99a63
+      internalID: -1865542808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: abff4d0883de5a846b21b73a62f25d53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_0: 5197158289810592335
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_1: -4761466139687692872
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_10: 1428397397825066413
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_11: 1897624587598933151
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_12: -1994429106335769008
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_13: -868686489783953202
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_14: 7822952636142922039
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_15: 3757489529480114173
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_16: 2391960429081030385
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_17: 195646979676347460
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_18: 2816369968687932700
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_19: 8770985544545060487
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_2: -8642541455876243301
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_20: -4743724128046263337
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_21: 2914317704666004896
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_22: 9142946345861788085
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_23: 2336985532915853312
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_24: 1179947729323696990
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_25: -7343782379211399906
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_26: -1972159327082743634
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_27: -859008839597388973
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_28: -8718615368518675275
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_29: -3685398184753286012
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_3: 2821712535470143297
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_30: 5021725557195911035
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_31: -8819428979892034008
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_32: -7485917129249932086
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_33: 2184613623552620859
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_34: 4843998018967338643
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_35: 1036106522593104860
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_36: -6792473194686772014
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_37: -5519698051384386146
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_38: 6911993647414794422
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_39: 2597075101022992252
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_4: -6630700751772670456
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_40: -4481217396032470065
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_41: 4733316561042104150
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_42: -2210445925822096204
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_43: -550264049820960856
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_44: -5671230079042733521
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_45: -3039989844800651957
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_46: 1166108824767395861
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_47: -2237405912392810055
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_48: -7563034618191380380
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_49: -1733763790087584742
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_5: 3029348927308354234
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_50: -1265212003177958516
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_51: 6970913821072162158
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_52: 1494746185090284227
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_53: -7121775435097547607
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_54: -7157625627617575962
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_55: 6536213229888293277
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_56: -5864690587190902459
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_57: -4559856859059519150
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_58: 557801303663823302
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_59: 4508353470103345469
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_6: 6911517514409972179
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_60: 4941616978467116849
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_61: -4879278378682840773
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_62: 5125092957312451137
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_63: -6593840749192704422
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_64: -4795950392793268990
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_65: -7410891438461208650
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_66: 1763815562779495316
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_67: 4839928289800357010
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_68: -7054757605247420180
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_69: 4491962564254878281
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_7: 8596642365187786050
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_70: 875606867101065418
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_71: 7602881052289281179
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_72: 3815500092992817532
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_73: -8116990886311382851
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_74: 2353104511922547998
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_75: -5577858454931830871
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_76: -9041889991753008431
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_77: 8749232449068666496
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_78: -2004200118
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_79: -752332091
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_8: -2183058882094380036
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_80: -1865542808
+      Arcade - Robotron_ 2084 - Enemies - Robotrons_9: -2091444998476835613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: db9150d59b4f2254fb91b1dbe74a70ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1152697250866942905
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_0
+  - first:
+      213: 3188690762978412293
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_1
+  - first:
+      213: -1261334791724520163
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_2
+  - first:
+      213: 424877586285652515
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_3
+  - first:
+      213: -2005913044614135708
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_4
+  - first:
+      213: 3717899298695979457
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_5
+  - first:
+      213: 147074213279513016
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_6
+  - first:
+      213: 3381721873937203928
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_7
+  - first:
+      213: 7653575119851827987
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_8
+  - first:
+      213: 963243390355057036
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_9
+  - first:
+      213: -6648070623596289642
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_10
+  - first:
+      213: -5977193191369227997
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_11
+  - first:
+      213: -1232312407626068912
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_12
+  - first:
+      213: -3592252813102647221
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_13
+  - first:
+      213: -7658948166274336829
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_14
+  - first:
+      213: -7211283627060595778
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_15
+  - first:
+      213: -7461718443246540487
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_16
+  - first:
+      213: 1495600867929653663
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_17
+  - first:
+      213: -8086232706225903072
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_18
+  - first:
+      213: -2476977540051588783
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_19
+  - first:
+      213: -3360759089006031849
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_20
+  - first:
+      213: -4486956185584888525
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_21
+  - first:
+      213: 57806807077302103
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_22
+  - first:
+      213: -3294493616790466719
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_23
+  - first:
+      213: 2326769285506128918
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_24
+  - first:
+      213: -5085939811603471620
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_25
+  - first:
+      213: -990777774328336848
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_26
+  - first:
+      213: 929888230087834217
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_27
+  - first:
+      213: -2729111835461293260
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_28
+  - first:
+      213: -9106654358565110583
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_29
+  - first:
+      213: -5392354843915990206
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_30
+  - first:
+      213: -4310252704164849560
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_31
+  - first:
+      213: -874349463251695764
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_32
+  - first:
+      213: 3767577947776967603
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_33
+  - first:
+      213: -2975173145116654161
+    second: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca18425fbc000f0800000000000000
+      internalID: -1152697250866942905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507c5e1ca51804c20800000000000000
+      internalID: 3188690762978412293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 105
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d2b6490b6de7ee0800000000000000
+      internalID: -1261334791724520163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 118
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae493e9e775e500800000000000000
+      internalID: 424877586285652515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 118
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c375b6b09924e0800000000000000
+      internalID: -2005913044614135708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 104
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a271c6b1a89330800000000000000
+      internalID: 3717899298695979457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 118
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9352eb7338a0200800000000000000
+      internalID: 147074213279513016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 104
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d20231902a4eee20800000000000000
+      internalID: 3381721873937203928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31339886506f63a60800000000000000
+      internalID: 7653575119851827987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892b5292c02e5d00800000000000000
+      internalID: 963243390355057036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69165d6adfe4db3a0800000000000000
+      internalID: -6648070623596289642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 91
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321cd82067ebc0da0800000000000000
+      internalID: -5977193191369227997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c4423f462f5eee0800000000000000
+      internalID: -1232312407626068912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 90
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487e9b5911c52ec0800000000000000
+      internalID: -3592252813102647221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 76
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7b61cb833f5b590800000000000000
+      internalID: -7658948166274336829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 90
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3767a8fbf5ceb90800000000000000
+      internalID: -7211283627060595778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9392f481c96a27890800000000000000
+      internalID: -7461718443246540487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9186bab01171c410800000000000000
+      internalID: 1495600867929653663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 62
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a6246423ee7cf80800000000000000
+      internalID: -8086232706225903072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159aa980d0200add0800000000000000
+      internalID: -2476977540051588783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c41242a6f2c51d0800000000000000
+      internalID: -3360759089006031849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 46
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33598734f112bb1c0800000000000000
+      internalID: -4486956185584888525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 61
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f21791cfe5dc000800000000000000
+      internalID: 57806807077302103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 46
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f8960b28b9742d0800000000000000
+      internalID: -3294493616790466719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cd1e066585a4020800000000000000
+      internalID: 2326769285506128918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ab5410bc1b69b0800000000000000
+      internalID: -5085939811603471620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 35
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eaec51ddc0042f0800000000000000
+      internalID: -990777774328336848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 23
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ab3332b60a7ec00800000000000000
+      internalID: 929888230087834217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be30fbe3f302ad0800000000000000
+      internalID: -2729111835461293260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 23
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccb6792c1aae9180800000000000000
+      internalID: -9106654358565110583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bc781e6d18a25b0800000000000000
+      internalID: -5392354843915990206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86856149008ee24c0800000000000000
+      internalID: -4310252704164849560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c674451bbcfadd3f0800000000000000
+      internalID: -874349463251695764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b367d89e20294430800000000000000
+      internalID: 3767577947776967603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa54a04a9cf06b6d0800000000000000
+      internalID: -2975173145116654161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe2581daa916c6478b704427df1fce0
+      internalID: -802145592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 25
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b3092332ef6f46ad59f67c155d726
+      internalID: -1666534862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3c775344f77a1304793f115be87e24f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_0: -1152697250866942905
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_1: 3188690762978412293
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_10: -6648070623596289642
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_11: -5977193191369227997
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_12: -1232312407626068912
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_13: -3592252813102647221
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_14: -7658948166274336829
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_15: -7211283627060595778
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_16: -7461718443246540487
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_17: 1495600867929653663
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_18: -8086232706225903072
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_19: -2476977540051588783
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_2: -1261334791724520163
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_20: -3360759089006031849
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_21: -4486956185584888525
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_22: 57806807077302103
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_23: -3294493616790466719
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_24: 2326769285506128918
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_25: -5085939811603471620
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_26: -990777774328336848
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_27: 929888230087834217
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_28: -2729111835461293260
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_29: -9106654358565110583
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_3: 424877586285652515
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_30: -5392354843915990206
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_31: -4310252704164849560
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_32: -874349463251695764
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_33: 3767577947776967603
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_34: -2975173145116654161
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_35: -802145592
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_36: -1666534862
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_4: -2005913044614135708
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_5: 3717899298695979457
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_6: 147074213279513016
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_7: 3381721873937203928
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_8: 7653575119851827987
+      Arcade - Robotron_ 2084 - Miscellaneous - Human Family 1_9: 963243390355057036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
